@@ -1,1 +1,1 @@
-This is another lesson which promises to be great.
+This is another module which promises to be awesome.
